@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K-Tett&color=blueviolet&style=flat">
+</p>
+
 - 🌱 I'm currently learning **HTML, CSS, Typescript, etc.**
 - 📫 How to reach me **cherntay.s@gmail.com**
 
@@ -14,14 +18,15 @@
 <br/>
 
 Flexing my coding speed:
+<br>
 [<img src="https://api.speedtyper.dev/users/K-Tett/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/K-Tett) 
 [<img src="https://api.speedtyper.dev/users/K-Tett/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/K-Tett) 
 [<img src="https://api.speedtyper.dev/users/K-Tett/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/K-Tett)
 
 <p align="center">
   <a href="https://github.com/K-Tett">
-  <img src="https://github-readme-stats.vercel.app/api/?username=K-Tett&showicons=true&count_private=true&theme=tokyonight" alt="K-Tett" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Tett&langs_count=5&theme=tokyonight" alt="K-Tett" height="200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=K-Tett&showicons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="K-Tett"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Tett&langs_count=5&layout=compact&theme=tokyonight&langs_count=8" alt="K-Tett"/>
   </a>
 </p>
 
