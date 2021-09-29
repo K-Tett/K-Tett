@@ -26,7 +26,7 @@ Flexing my coding speed:
 <p align="center">
   <a href="https://github.com/K-Tett">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=K-Tett&showicons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="K-Tett"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Tett&langs_count=5&layout=compact&theme=tokyonight&langs_count=8" alt="K-Tett"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Tett&theme=tokyonight&layout=compact" alt="K-Tett"/>
   </a>
 </p>
 
