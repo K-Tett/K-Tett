@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=K-Tett&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I'm currently learning **HTML, CSS, Typescript, etc.**
+- 🌱 I'm currently learning **Typescript, C#, Java, and Python**
 - 📫 How to reach me **cherntay.s@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
@@ -30,3 +30,4 @@ Flexing my coding speed:
 </p>
 
 ### 🤝🏻 &nbsp;Contact
+[LinkedIn](https://www.linkedin.com/in/chern-tay-s/)
